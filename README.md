@@ -1,2 +1,5 @@
 # demo-repo-hubert
-Git training
+
+**Git training**
+
+Test and learn some features on github
